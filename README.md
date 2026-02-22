@@ -1,2 +1,2 @@
 # c-book-exercises
-Exercises from the book "the ansi c programming language"
+Couple of exercises i made from the book "the ansi c programming language", might be useful for consultation later
