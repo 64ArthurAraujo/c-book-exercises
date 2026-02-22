@@ -18,4 +18,5 @@ add_executable(untitled char-count.c
         address-arithimethic.c
         strlen.c
         char-pointers.c
+        strcmp.c
 )
