@@ -19,4 +19,5 @@ add_executable(untitled char-count.c
         strlen.c
         char-pointers.c
         strcmp.c
+        strcat-pointer-version.c
 )
