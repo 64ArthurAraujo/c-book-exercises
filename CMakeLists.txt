@@ -21,4 +21,5 @@ add_executable(untitled char-count.c
         strcmp.c
         strcat-pointer-version.c
         strend-pointer.c
+        str-n-copy.c
 )
