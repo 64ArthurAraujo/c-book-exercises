@@ -17,4 +17,5 @@ add_executable(untitled char-count.c
         pointers.c
         address-arithimethic.c
         strlen.c
+        char-pointers.c
 )
