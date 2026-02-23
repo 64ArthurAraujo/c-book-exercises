@@ -22,4 +22,5 @@ add_executable(untitled char-count.c
         strcat-pointer-version.c
         strend-pointer.c
         str-n-copy.c
+        multi-dim-array.c
 )
