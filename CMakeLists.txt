@@ -23,4 +23,6 @@ add_executable(untitled char-count.c
         strend-pointer.c
         str-n-copy.c
         multi-dim-array.c
+        command-line-args.c
+        arg-grep.c
 )
