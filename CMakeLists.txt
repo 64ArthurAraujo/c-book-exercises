@@ -25,4 +25,5 @@ add_executable(untitled char-count.c
         multi-dim-array.c
         command-line-args.c
         arg-grep.c
+        pointer-to-function.c
 )
